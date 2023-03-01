@@ -1,0 +1,25 @@
+{
+   "C_Cpp.vcFormat.indent.accessSpecifiers": false,
+   "html.format.templating": false,
+   "editor.language.colorizedBracketPairs": [
+
+   
+   ],
+
+   "editor.guides.bracketPairs": "active",
+   "editor.guides.bracketPairsHorizontal": true,
+   "C_Cpp.dimInactiveRegions": false,
+   "workbench.colorCustomizations": {
+   
+   },
+   "workbench.colorTheme": "Evondev Dracula High Contrast",
+   "editor.cursorSmoothCaretAnimation": "on",
+   "cSpell.customDictionaries": {
+      "custom-dictionary-workspace": {
+         "name": "custom-dictionary-workspace",
+         "path": "${workspaceFolder:flutter_login_1}/.cspell/custom-dictionary-workspace.txt",
+         "addWords": true,
+         "scope": "workspace"
+      }
+   },
+}
